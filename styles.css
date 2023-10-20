@@ -10,7 +10,7 @@
 	box-sizing: border-box;
 	padding: 10px;
 }
-#g3>div>p{
+#g3>div{
 	text-align: right;
 	font-style: italic;
 }
